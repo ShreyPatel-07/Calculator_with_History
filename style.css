@@ -32,6 +32,7 @@ ul {
   border-radius: 16px;
   box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
   width: 60vw;
+  transition: width 0.3s ease;
 }
 
 .hamburger {
